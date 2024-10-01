@@ -61,3 +61,11 @@ onkey(): Links the arrow keys to the change() function to control the snake's di
 ## Additional Notes
 The game runs in an infinite loop until the snake collides with itself or the boundary.
 To stop the game, you can close the game window or press Ctrl+C in the terminal.
+
+## Output:
+![image](https://github.com/user-attachments/assets/641f57c7-8c59-4c03-a883-5ab0b351dde9)
+
+![image](https://github.com/user-attachments/assets/0eaec946-d7ff-40ea-8378-14131dbbc088)
+
+
+
